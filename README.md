@@ -19,12 +19,11 @@ Atravéz da biblioteca Metatrade 5 do Python, é possivel receber o sinal de cor
 - Pandas
 - MetaTrade5
 - Datetime
-- warnings (Para remover avisos)
 
 # Para executar este código é necessário:
-1. Ter conta ativa em alguma corretora de valores que forneça sinal para o terminal de negociações 'MetaTrader 5'.
-2. Ter instalado o terminal de negociações 'MetaTrader 5'.
-3. Logar a conta da corretora ao terminal de negociações 'MetaTrader 5'
+- Ter conta ativa em alguma corretora de valores que forneça sinal para o terminal de negociações 'MetaTrader 5'.
+- Ter instalado o terminal de negociações 'MetaTrader 5'.
+- Logar a conta da corretora ao terminal de negociações 'MetaTrader 5'
 
 # Autor
 Diogo Ludviger Raucci
