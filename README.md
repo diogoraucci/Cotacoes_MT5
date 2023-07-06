@@ -34,4 +34,10 @@ Atravéz da biblioteca Metatrade 5 do Python, é possivel receber o sinal de cor
 Diogo Ludviger Raucci
 
 https://www.linkedin.com/in/diogoraucci
-
+<div> 
+<a href="https://instagram.com/diogoludviger" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:diogoraucci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/diogoraucci" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://medium.com/@diogoraucci" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<a href="https://www.behance.net/3diogo" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+</div>
