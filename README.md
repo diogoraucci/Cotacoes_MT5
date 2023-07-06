@@ -33,7 +33,6 @@ Atravéz da biblioteca Metatrade 5 do Python, é possivel receber o sinal de cor
 # Autor
 Diogo Ludviger Raucci
 
-https://www.linkedin.com/in/diogoraucci
 <div> 
 <a href="https://instagram.com/diogoludviger" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:diogoraucci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
