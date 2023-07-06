@@ -14,10 +14,8 @@ Dados públicos de cotações de ativos, não são confiáveis, comumente aprese
 Uma alternativa para obter informações confiáveis gratuitamente é atravéz do sinal que algumas corretoras distribue aos seus clientes.
 Atravéz da biblioteca Metatrade 5 do Python, é possivel receber o sinal de corretoras e obter as cotações dos ativos financeiros em tempo real.    
 
-# Tecnologias utilizadas Nesse Notebook
-### Tecnologias Que Utilizo        
+# Tecnologias utilizadas Nesse Notebook       
 <div style="display: inline_block"><br>
-
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
